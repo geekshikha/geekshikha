@@ -1,7 +1,17 @@
 # Hi there! this is Shikha!👩‍💻👋 
 ### "Any time is perfect, to learn something new." Albert Einstein
+<br>
+
+   <details>
+<summary>📊 Profile Views</summary>
+</details>
+  
+ ![Visitor Count](https://profile-counter.glitch.me/{geekshikha}/count.svg)
+  
+
+
 <hr/>
-<p>
+
 <img align="right" alt="GIF[girl coding]" src="https://user-images.githubusercontent.com/79321645/155501197-2ea60104-a5cc-41de-9340-c17869fd14f3.gif" width="500" height="320"/>
 
 - 💙 I love developing, researching and learning new things                                  
@@ -13,7 +23,9 @@
 - ✨ My aspiration is to put my skills and knowledge gained into use and develop meaningful web applications
   
 -  ✉️ Find me on:  [<img alt="LinkedIn" align="center" height="20px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shikha-singh-47b574a4/)
+-  😄 Pronouns - She/Her
 <hr/>
+
 
 ## 🧰 Languages and Tools:
 
@@ -40,3 +52,8 @@
 <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 </p>
+
+
+
+
+ 
