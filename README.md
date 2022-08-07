@@ -1,8 +1,11 @@
-# Hi there! this is Shikha!👩‍💻👋 
-### "Any time is perfect, to learn something new." Albert Einstein
-<br>
+<h1 align="center"> Hi there! this is Shikha!👩‍💻👋 </h1>
+<h3 align="center"> "Any time is perfect, to learn something new." - Albert Einstein</h3>
 
-   <details>
+---
+
+  Check my [Portfolio Website](https://shikhasingh-portfolio.netlify.app/)
+  
+  <details>
 <summary>📊 Profile Views</summary>
 </details>
   
@@ -12,7 +15,7 @@
 
 <hr/>
 
-<img align="right" alt="GIF[girl coding]" src="https://user-images.githubusercontent.com/79321645/155501197-2ea60104-a5cc-41de-9340-c17869fd14f3.gif" width="500" height="320"/>
+<img align="right" alt="GIF[girl coding]" src="https://user-images.githubusercontent.com/79321645/155501197-2ea60104-a5cc-41de-9340-c17869fd14f3.gif" width="500" height="250"/>
 
 - 💙 I love developing, researching and learning new things                                  
 
@@ -22,14 +25,16 @@
 
 - ✨ My aspiration is to put my skills and knowledge gained into use and develop meaningful web applications
   
--  ✉️ Find me on:  [<img alt="LinkedIn" align="center" height="20px" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shikha-singh-47b574a4/)
+-  ✉️ Find me on:  [<img alt="LinkedIn" align="center" height="25px" width="25px" src="https://github.com/geekshikha/MyPortfolio/blob/main/src/assets/li.png?raw=true" />](https://www.linkedin.com/in/shikha-singh-47b574a4/)
 -  😄 Pronouns - She/Her
+
+
 <hr/>
 
 
-## 🧰 Languages and Tools:
+<h1 align="center">🧰 Languages and Tools:</h1>
 
-<img align="left" alt="giphy" src="https://user-images.githubusercontent.com/79321645/155519699-890da0f9-edd2-448a-aacc-3c926648b1b5.gif" height="200" width="200" />
+
 
 
   <p align="center"> 
@@ -51,7 +56,7 @@
 
 
 
-#### Learning in progress: 
+<h3>Learning in progress: </h3>
 
 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
