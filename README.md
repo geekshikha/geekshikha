@@ -17,13 +17,13 @@
 
 <img align="right" alt="GIF[girl coding]" src="https://user-images.githubusercontent.com/79321645/155501197-2ea60104-a5cc-41de-9340-c17869fd14f3.gif" width="500" height="250"/>
 
-- 💙 I love developing, researching and learning new things                                  
+- 💙 I love developing, researching, and learning new things                                  
 
-- 🧑‍🤝‍🧑 Looking for a team or an organization where I can learn and develop my skills
+- 🤹 In the continuous process of upscaling my skills
 
-- 👩🏻‍🎓 Codaisseur Graduate 
+- 👩‍💻 Web Developer at Deloitte Netherlands
 
-- ✨ My aspiration is to put my skills and knowledge gained into use and develop meaningful web applications
+- ✨ I aspire to put my skills and knowledge gained into use and develop meaningful web applications
   
 -  ✉️ Find me on:  [<img alt="LinkedIn" align="center" height="25px" width="25px" src="https://github.com/geekshikha/MyPortfolio/blob/main/src/assets/li.png?raw=true" />](https://www.linkedin.com/in/shikha-singh-47b574a4/)
 -  😄 Pronouns - She/Her
